@@ -1,2 +1,1 @@
-# Project
-Serenity chatbot for emotionally well-being
+# Serenity chatbot for emotionally well-being
